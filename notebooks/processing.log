@@ -75,3 +75,408 @@
   Final unique genes after combining: 0
 
 2025-07-08 14:41:25,881 - INFO - Finished processing file: GSE124053-GW3965-4h.tsv
+2025-07-08 16:00:43,894 - INFO - Start processing file: GSE116280_Rot100nM_24h_8d.tsv in dataset: GSE116280
+2025-07-08 16:01:06,360 - INFO - GSE116280/GSE116280_Rot100nM_24h_8d.tsv:
+  Original genes: 21727
+  Expanded rows: 21330
+  Unique genes before deduplication: 21255
+  Duplicated genes: 75
+  Final unique genes after combining: 21255
+
+2025-07-08 16:01:06,360 - INFO - Finished processing file: GSE116280_Rot100nM_24h_8d.tsv
+2025-07-08 16:01:06,362 - INFO - Start processing file: GSE116280_Rot50nM_24h_8d.tsv in dataset: GSE116280
+2025-07-08 16:01:41,523 - INFO - Start processing file: GSE116280_Rot100nM_24h_8d.tsv in dataset: GSE116280
+2025-07-08 16:01:41,598 - ERROR - Failed to process GSE116280_Rot100nM_24h_8d.tsv in GSE116280: 'FDR'
+2025-07-08 16:01:41,601 - INFO - Start processing file: GSE116280_Rot50nM_24h_8d.tsv in dataset: GSE116280
+2025-07-08 16:01:41,658 - ERROR - Failed to process GSE116280_Rot50nM_24h_8d.tsv in GSE116280: 'FDR'
+2025-07-08 16:01:41,660 - INFO - Start processing file: GSE90122-Rifampicin.tsv in dataset: GSE90122
+2025-07-08 16:01:41,861 - ERROR - Failed to process GSE90122-Rifampicin.tsv in GSE90122: 'FDR'
+2025-07-08 16:01:41,869 - INFO - Start processing file: GSE90122-SR12813.tsv in dataset: GSE90122
+2025-07-08 16:01:42,069 - ERROR - Failed to process GSE90122-SR12813.tsv in GSE90122: 'FDR'
+2025-07-08 16:01:42,076 - INFO - Start processing file: GSE90122-TO90137.tsv in dataset: GSE90122
+2025-07-08 16:01:42,267 - ERROR - Failed to process GSE90122-TO90137.tsv in GSE90122: 'FDR'
+2025-07-08 16:01:42,274 - INFO - Start processing file: GSE124053-GW3965-24h.tsv in dataset: GSE124053
+2025-07-08 16:01:42,329 - ERROR - Failed to process GSE124053-GW3965-24h.tsv in GSE124053: 'FDR'
+2025-07-08 16:01:42,330 - INFO - Start processing file: GSE124053-GW3965-4h.tsv in dataset: GSE124053
+2025-07-08 16:01:42,378 - ERROR - Failed to process GSE124053-GW3965-4h.tsv in GSE124053: 'FDR'
+2025-07-08 16:03:22,491 - INFO - Start processing file: GSE116280_Rot100nM_24h_8d.tsv in dataset: GSE116280
+2025-07-08 16:03:42,671 - INFO - GSE116280/GSE116280_Rot100nM_24h_8d.tsv:
+  Original genes: 21727
+  Expanded rows: 21330
+  Unique genes before deduplication: 21255
+  Duplicated genes: 75
+  Final unique genes after combining: 21255
+
+2025-07-08 16:03:42,672 - INFO - Finished processing file: GSE116280_Rot100nM_24h_8d.tsv
+2025-07-08 16:03:42,673 - INFO - Start processing file: GSE116280_Rot50nM_24h_8d.tsv in dataset: GSE116280
+2025-07-08 16:04:04,022 - INFO - GSE116280/GSE116280_Rot50nM_24h_8d.tsv:
+  Original genes: 21729
+  Expanded rows: 21332
+  Unique genes before deduplication: 21257
+  Duplicated genes: 75
+  Final unique genes after combining: 21257
+
+2025-07-08 16:04:04,022 - INFO - Finished processing file: GSE116280_Rot50nM_24h_8d.tsv
+2025-07-08 16:04:04,024 - INFO - Start processing file: GSE90122-Rifampicin.tsv in dataset: GSE90122
+2025-07-08 16:04:58,952 - INFO - GSE90122/GSE90122-Rifampicin.tsv:
+  Original genes: 42545
+  Expanded rows: 30436
+  Unique genes before deduplication: 22070
+  Duplicated genes: 8366
+  Final unique genes after combining: 22070
+
+2025-07-08 16:04:58,953 - INFO - Finished processing file: GSE90122-Rifampicin.tsv
+2025-07-08 16:04:58,959 - INFO - Start processing file: GSE90122-SR12813.tsv in dataset: GSE90122
+2025-07-08 16:06:01,936 - INFO - GSE90122/GSE90122-SR12813.tsv:
+  Original genes: 42545
+  Expanded rows: 30436
+  Unique genes before deduplication: 22070
+  Duplicated genes: 8366
+  Final unique genes after combining: 22070
+
+2025-07-08 16:06:01,936 - INFO - Finished processing file: GSE90122-SR12813.tsv
+2025-07-08 16:06:01,944 - INFO - Start processing file: GSE90122-TO90137.tsv in dataset: GSE90122
+2025-07-08 16:06:57,401 - INFO - GSE90122/GSE90122-TO90137.tsv:
+  Original genes: 42545
+  Expanded rows: 30436
+  Unique genes before deduplication: 22070
+  Duplicated genes: 8366
+  Final unique genes after combining: 22070
+
+2025-07-08 16:06:57,401 - INFO - Finished processing file: GSE90122-TO90137.tsv
+2025-07-08 16:06:57,408 - INFO - Start processing file: GSE124053-GW3965-24h.tsv in dataset: GSE124053
+2025-07-08 16:07:01,228 - ERROR - Failed to process GSE124053-GW3965-24h.tsv in GSE124053: float division by zero
+2025-07-08 16:07:01,230 - INFO - Start processing file: GSE124053-GW3965-4h.tsv in dataset: GSE124053
+2025-07-08 16:07:05,034 - ERROR - Failed to process GSE124053-GW3965-4h.tsv in GSE124053: float division by zero
+2025-07-08 16:09:33,289 - INFO - Start processing file: GSE116280_Rot100nM_24h_8d.tsv in dataset: GSE116280
+2025-07-08 16:09:33,361 - ERROR - Failed to process GSE116280_Rot100nM_24h_8d.tsv in GSE116280: 'FDR'
+2025-07-08 16:09:33,364 - INFO - Start processing file: GSE116280_Rot50nM_24h_8d.tsv in dataset: GSE116280
+2025-07-08 16:09:33,424 - ERROR - Failed to process GSE116280_Rot50nM_24h_8d.tsv in GSE116280: 'FDR'
+2025-07-08 16:09:33,427 - INFO - Start processing file: GSE90122-Rifampicin.tsv in dataset: GSE90122
+2025-07-08 16:09:33,612 - ERROR - Failed to process GSE90122-Rifampicin.tsv in GSE90122: 'FDR'
+2025-07-08 16:09:33,624 - INFO - Start processing file: GSE90122-SR12813.tsv in dataset: GSE90122
+2025-07-08 16:09:33,832 - ERROR - Failed to process GSE90122-SR12813.tsv in GSE90122: 'FDR'
+2025-07-08 16:09:33,844 - INFO - Start processing file: GSE90122-TO90137.tsv in dataset: GSE90122
+2025-07-08 16:09:34,042 - ERROR - Failed to process GSE90122-TO90137.tsv in GSE90122: 'FDR'
+2025-07-08 16:09:34,054 - INFO - Start processing file: GSE124053-GW3965-24h.tsv in dataset: GSE124053
+2025-07-08 16:09:34,115 - ERROR - Failed to process GSE124053-GW3965-24h.tsv in GSE124053: 'FDR'
+2025-07-08 16:09:34,117 - INFO - Start processing file: GSE124053-GW3965-4h.tsv in dataset: GSE124053
+2025-07-08 16:09:34,162 - ERROR - Failed to process GSE124053-GW3965-4h.tsv in GSE124053: 'FDR'
+2025-07-08 16:13:11,825 - INFO - Start processing file: GSE116280_Rot100nM_24h_8d.tsv in dataset: GSE116280
+2025-07-08 16:13:33,751 - INFO - GSE116280/GSE116280_Rot100nM_24h_8d.tsv:
+  Original genes: 21727
+  Expanded rows: 21330
+  Unique genes before deduplication: 21255
+  Duplicated genes: 75
+  Final unique genes after combining: 21255
+
+2025-07-08 16:13:33,751 - INFO - Finished processing file: GSE116280_Rot100nM_24h_8d.tsv
+2025-07-08 16:13:33,754 - INFO - Start processing file: GSE116280_Rot50nM_24h_8d.tsv in dataset: GSE116280
+2025-07-08 16:13:54,647 - INFO - GSE116280/GSE116280_Rot50nM_24h_8d.tsv:
+  Original genes: 21729
+  Expanded rows: 21332
+  Unique genes before deduplication: 21257
+  Duplicated genes: 75
+  Final unique genes after combining: 21257
+
+2025-07-08 16:13:54,647 - INFO - Finished processing file: GSE116280_Rot50nM_24h_8d.tsv
+2025-07-08 16:13:54,649 - INFO - Start processing file: GSE90122-Rifampicin.tsv in dataset: GSE90122
+2025-07-08 16:14:52,693 - INFO - Start processing file: GSE116280_Rot100nM_24h_8d.tsv in dataset: GSE116280
+2025-07-08 16:15:13,659 - INFO - GSE116280/GSE116280_Rot100nM_24h_8d.tsv:
+  Original genes: 21727
+  Expanded rows: 21330
+  Unique genes before deduplication: 21255
+  Duplicated genes: 75
+  Final unique genes after combining: 21255
+
+2025-07-08 16:15:13,659 - INFO - Finished processing file: GSE116280_Rot100nM_24h_8d.tsv
+2025-07-08 16:15:13,661 - INFO - Start processing file: GSE116280_Rot50nM_24h_8d.tsv in dataset: GSE116280
+2025-07-08 16:15:35,493 - INFO - GSE116280/GSE116280_Rot50nM_24h_8d.tsv:
+  Original genes: 21729
+  Expanded rows: 21332
+  Unique genes before deduplication: 21257
+  Duplicated genes: 75
+  Final unique genes after combining: 21257
+
+2025-07-08 16:15:35,493 - INFO - Finished processing file: GSE116280_Rot50nM_24h_8d.tsv
+2025-07-08 16:15:35,496 - INFO - Start processing file: GSE90122-Rifampicin.tsv in dataset: GSE90122
+2025-07-08 16:16:27,000 - INFO - GSE90122/GSE90122-Rifampicin.tsv:
+  Original genes: 42545
+  Expanded rows: 30436
+  Unique genes before deduplication: 22070
+  Duplicated genes: 8366
+  Final unique genes after combining: 22070
+
+2025-07-08 16:16:27,001 - INFO - Finished processing file: GSE90122-Rifampicin.tsv
+2025-07-08 16:16:27,006 - INFO - Start processing file: GSE90122-SR12813.tsv in dataset: GSE90122
+2025-07-08 16:17:18,940 - INFO - GSE90122/GSE90122-SR12813.tsv:
+  Original genes: 42545
+  Expanded rows: 30436
+  Unique genes before deduplication: 22070
+  Duplicated genes: 8366
+  Final unique genes after combining: 22070
+
+2025-07-08 16:17:18,940 - INFO - Finished processing file: GSE90122-SR12813.tsv
+2025-07-08 16:17:18,945 - INFO - Start processing file: GSE90122-TO90137.tsv in dataset: GSE90122
+2025-07-08 16:18:10,614 - INFO - GSE90122/GSE90122-TO90137.tsv:
+  Original genes: 42545
+  Expanded rows: 30436
+  Unique genes before deduplication: 22070
+  Duplicated genes: 8366
+  Final unique genes after combining: 22070
+
+2025-07-08 16:18:10,614 - INFO - Finished processing file: GSE90122-TO90137.tsv
+2025-07-08 16:18:10,622 - INFO - Start processing file: GSE124053-GW3965-24h.tsv in dataset: GSE124053
+2025-07-08 16:18:11,995 - ERROR - Failed to process GSE124053-GW3965-24h.tsv in GSE124053: float division by zero
+2025-07-08 16:18:11,997 - INFO - Start processing file: GSE124053-GW3965-4h.tsv in dataset: GSE124053
+2025-07-08 16:18:13,358 - ERROR - Failed to process GSE124053-GW3965-4h.tsv in GSE124053: float division by zero
+2025-07-08 20:54:58,697 - INFO - Start processing file: GSE116280_Rotenone_100nm_24h_15d.tsv in dataset: GSE116280
+2025-07-08 20:55:17,478 - INFO - GSE116280/GSE116280_Rotenone_100nm_24h_15d.tsv:
+  Original genes: 21714
+  Expanded rows: 21317
+  Unique genes before deduplication: 21242
+  Duplicated genes: 75
+  Final unique genes after combining: 21242
+
+2025-07-08 20:55:17,478 - INFO - Finished processing file: GSE116280_Rotenone_100nm_24h_15d.tsv
+2025-07-08 20:55:17,483 - INFO - Start processing file: GSE116280_Rotenone_100nm_24h_8d.tsv in dataset: GSE116280
+2025-07-08 20:55:37,093 - INFO - GSE116280/GSE116280_Rotenone_100nm_24h_8d.tsv:
+  Original genes: 21727
+  Expanded rows: 21330
+  Unique genes before deduplication: 21255
+  Duplicated genes: 75
+  Final unique genes after combining: 21255
+
+2025-07-08 20:55:37,094 - INFO - Finished processing file: GSE116280_Rotenone_100nm_24h_8d.tsv
+2025-07-08 20:55:37,098 - INFO - Start processing file: GSE116280_Rotenone_50nm_12h_15d.tsv in dataset: GSE116280
+2025-07-08 20:55:57,873 - INFO - GSE116280/GSE116280_Rotenone_50nm_12h_15d.tsv:
+  Original genes: 21706
+  Expanded rows: 21309
+  Unique genes before deduplication: 21234
+  Duplicated genes: 75
+  Final unique genes after combining: 21234
+
+2025-07-08 20:55:57,873 - INFO - Finished processing file: GSE116280_Rotenone_50nm_12h_15d.tsv
+2025-07-08 20:55:57,878 - INFO - Start processing file: GSE116280_Rotenone_50nm_12h_8d.tsv in dataset: GSE116280
+2025-07-08 20:56:21,042 - INFO - GSE116280/GSE116280_Rotenone_50nm_12h_8d.tsv:
+  Original genes: 21728
+  Expanded rows: 21331
+  Unique genes before deduplication: 21256
+  Duplicated genes: 75
+  Final unique genes after combining: 21256
+
+2025-07-08 20:56:21,042 - INFO - Finished processing file: GSE116280_Rotenone_50nm_12h_8d.tsv
+2025-07-08 20:56:21,044 - INFO - Start processing file: GSE116280_Rotenone_50nm_24h_15d.tsv in dataset: GSE116280
+2025-07-08 20:56:41,415 - INFO - GSE116280/GSE116280_Rotenone_50nm_24h_15d.tsv:
+  Original genes: 21726
+  Expanded rows: 21329
+  Unique genes before deduplication: 21254
+  Duplicated genes: 75
+  Final unique genes after combining: 21254
+
+2025-07-08 20:56:41,415 - INFO - Finished processing file: GSE116280_Rotenone_50nm_24h_15d.tsv
+2025-07-08 20:56:41,418 - INFO - Start processing file: GSE116280_Rotenone_50nm_24h_8d.tsv in dataset: GSE116280
+2025-07-08 20:57:01,545 - INFO - GSE116280/GSE116280_Rotenone_50nm_24h_8d.tsv:
+  Original genes: 21729
+  Expanded rows: 21332
+  Unique genes before deduplication: 21257
+  Duplicated genes: 75
+  Final unique genes after combining: 21257
+
+2025-07-08 20:57:01,546 - INFO - Finished processing file: GSE116280_Rotenone_50nm_24h_8d.tsv
+2025-07-08 20:57:01,548 - INFO - Start processing file: GSE90122_Rifampicin.tsv in dataset: GSE90122
+2025-07-08 20:57:53,617 - INFO - GSE90122/GSE90122_Rifampicin.tsv:
+  Original genes: 42545
+  Expanded rows: 30436
+  Unique genes before deduplication: 22070
+  Duplicated genes: 8366
+  Final unique genes after combining: 22070
+
+2025-07-08 20:57:53,618 - INFO - Finished processing file: GSE90122_Rifampicin.tsv
+2025-07-08 20:57:53,622 - INFO - Start processing file: GSE90122_SR12813.tsv in dataset: GSE90122
+2025-07-08 20:58:43,651 - INFO - GSE90122/GSE90122_SR12813.tsv:
+  Original genes: 42545
+  Expanded rows: 30436
+  Unique genes before deduplication: 22070
+  Duplicated genes: 8366
+  Final unique genes after combining: 22070
+
+2025-07-08 20:58:43,651 - INFO - Finished processing file: GSE90122_SR12813.tsv
+2025-07-08 20:58:43,655 - INFO - Start processing file: GSE90122_TO90137.tsv in dataset: GSE90122
+2025-07-08 20:59:31,294 - INFO - GSE90122/GSE90122_TO90137.tsv:
+  Original genes: 42545
+  Expanded rows: 30436
+  Unique genes before deduplication: 22070
+  Duplicated genes: 8366
+  Final unique genes after combining: 22070
+
+2025-07-08 20:59:31,294 - INFO - Finished processing file: GSE90122_TO90137.tsv
+2025-07-08 20:59:31,301 - INFO - Start processing file: GSE124053_CDCA_24h.tsv in dataset: GSE124053
+2025-07-08 20:59:32,513 - ERROR - Failed to process GSE124053_CDCA_24h.tsv in GSE124053: float division by zero
+2025-07-08 20:59:32,515 - INFO - Start processing file: GSE124053_CDCA_4h.tsv in dataset: GSE124053
+2025-07-08 20:59:33,686 - ERROR - Failed to process GSE124053_CDCA_4h.tsv in GSE124053: float division by zero
+2025-07-08 20:59:33,688 - INFO - Start processing file: GSE124053_GW3965_24h.tsv in dataset: GSE124053
+2025-07-08 20:59:34,893 - ERROR - Failed to process GSE124053_GW3965_24h.tsv in GSE124053: float division by zero
+2025-07-08 20:59:34,894 - INFO - Start processing file: GSE124053_GW3965_4h.tsv in dataset: GSE124053
+2025-07-08 20:59:36,136 - ERROR - Failed to process GSE124053_GW3965_4h.tsv in GSE124053: float division by zero
+2025-07-08 20:59:36,138 - INFO - Start processing file: GSE124053_GW4064_24h.tsv in dataset: GSE124053
+2025-07-08 20:59:37,336 - ERROR - Failed to process GSE124053_GW4064_24h.tsv in GSE124053: float division by zero
+2025-07-08 20:59:37,338 - INFO - Start processing file: GSE124053_GW4064_4h.tsv in dataset: GSE124053
+2025-07-08 20:59:38,500 - ERROR - Failed to process GSE124053_GW4064_4h.tsv in GSE124053: float division by zero
+2025-07-08 20:59:38,502 - INFO - Start processing file: GSE124053_GW7647_24h.tsv in dataset: GSE124053
+2025-07-08 20:59:39,698 - ERROR - Failed to process GSE124053_GW7647_24h.tsv in GSE124053: float division by zero
+2025-07-08 20:59:39,700 - INFO - Start processing file: GSE124053_GW7647_4h.tsv in dataset: GSE124053
+2025-07-08 20:59:40,883 - ERROR - Failed to process GSE124053_GW7647_4h.tsv in GSE124053: float division by zero
+2025-07-08 21:03:13,101 - INFO - Start processing file: GSE116280_Rotenone_100nm_24h_15d.tsv in dataset: GSE116280
+2025-07-08 21:03:33,739 - INFO - GSE116280/GSE116280_Rotenone_100nm_24h_15d.tsv:
+  Original genes: 21714
+  Expanded rows: 21714
+  Unique genes before deduplication: 21243
+  Duplicated genes: 471
+  Final unique genes after combining: 21243
+
+2025-07-08 21:03:33,739 - INFO - Finished processing file: GSE116280_Rotenone_100nm_24h_15d.tsv
+2025-07-08 21:03:33,743 - INFO - Start processing file: GSE116280_Rotenone_100nm_24h_8d.tsv in dataset: GSE116280
+2025-07-08 21:03:54,809 - INFO - GSE116280/GSE116280_Rotenone_100nm_24h_8d.tsv:
+  Original genes: 21727
+  Expanded rows: 21727
+  Unique genes before deduplication: 21256
+  Duplicated genes: 471
+  Final unique genes after combining: 21256
+
+2025-07-08 21:03:54,810 - INFO - Finished processing file: GSE116280_Rotenone_100nm_24h_8d.tsv
+2025-07-08 21:03:54,814 - INFO - Start processing file: GSE116280_Rotenone_50nm_12h_15d.tsv in dataset: GSE116280
+2025-07-08 21:04:15,206 - INFO - GSE116280/GSE116280_Rotenone_50nm_12h_15d.tsv:
+  Original genes: 21706
+  Expanded rows: 21706
+  Unique genes before deduplication: 21235
+  Duplicated genes: 471
+  Final unique genes after combining: 21235
+
+2025-07-08 21:04:15,206 - INFO - Finished processing file: GSE116280_Rotenone_50nm_12h_15d.tsv
+2025-07-08 21:04:15,210 - INFO - Start processing file: GSE116280_Rotenone_50nm_12h_8d.tsv in dataset: GSE116280
+2025-07-08 21:04:36,456 - INFO - GSE116280/GSE116280_Rotenone_50nm_12h_8d.tsv:
+  Original genes: 21728
+  Expanded rows: 21728
+  Unique genes before deduplication: 21257
+  Duplicated genes: 471
+  Final unique genes after combining: 21257
+
+2025-07-08 21:04:36,456 - INFO - Finished processing file: GSE116280_Rotenone_50nm_12h_8d.tsv
+2025-07-08 21:04:36,460 - INFO - Start processing file: GSE116280_Rotenone_50nm_24h_15d.tsv in dataset: GSE116280
+2025-07-08 21:05:00,154 - INFO - GSE116280/GSE116280_Rotenone_50nm_24h_15d.tsv:
+  Original genes: 21726
+  Expanded rows: 21726
+  Unique genes before deduplication: 21255
+  Duplicated genes: 471
+  Final unique genes after combining: 21255
+
+2025-07-08 21:05:00,155 - INFO - Finished processing file: GSE116280_Rotenone_50nm_24h_15d.tsv
+2025-07-08 21:05:00,158 - INFO - Start processing file: GSE116280_Rotenone_50nm_24h_8d.tsv in dataset: GSE116280
+2025-07-08 21:05:22,836 - INFO - GSE116280/GSE116280_Rotenone_50nm_24h_8d.tsv:
+  Original genes: 21729
+  Expanded rows: 21729
+  Unique genes before deduplication: 21258
+  Duplicated genes: 471
+  Final unique genes after combining: 21258
+
+2025-07-08 21:05:22,836 - INFO - Finished processing file: GSE116280_Rotenone_50nm_24h_8d.tsv
+2025-07-08 21:05:22,838 - INFO - Start processing file: GSE90122_Rifampicin.tsv in dataset: GSE90122
+2025-07-08 21:06:52,626 - INFO - GSE90122/GSE90122_Rifampicin.tsv:
+  Original genes: 42545
+  Expanded rows: 42545
+  Unique genes before deduplication: 22071
+  Duplicated genes: 20474
+  Final unique genes after combining: 22071
+
+2025-07-08 21:06:52,626 - INFO - Finished processing file: GSE90122_Rifampicin.tsv
+2025-07-08 21:06:52,631 - INFO - Start processing file: GSE90122_SR12813.tsv in dataset: GSE90122
+2025-07-08 21:08:25,568 - INFO - GSE90122/GSE90122_SR12813.tsv:
+  Original genes: 42545
+  Expanded rows: 42545
+  Unique genes before deduplication: 22071
+  Duplicated genes: 20474
+  Final unique genes after combining: 22071
+
+2025-07-08 21:08:25,568 - INFO - Finished processing file: GSE90122_SR12813.tsv
+2025-07-08 21:08:25,572 - INFO - Start processing file: GSE90122_TO90137.tsv in dataset: GSE90122
+2025-07-08 21:10:01,728 - INFO - GSE90122/GSE90122_TO90137.tsv:
+  Original genes: 42545
+  Expanded rows: 42545
+  Unique genes before deduplication: 22071
+  Duplicated genes: 20474
+  Final unique genes after combining: 22071
+
+2025-07-08 21:10:01,728 - INFO - Finished processing file: GSE90122_TO90137.tsv
+2025-07-08 21:10:01,736 - INFO - Start processing file: GSE124053_CDCA_24h.tsv in dataset: GSE124053
+2025-07-08 21:11:02,247 - INFO - GSE124053/GSE124053_CDCA_24h.tsv:
+  Original genes: 26890
+  Expanded rows: 33498
+  Unique genes before deduplication: 21123
+  Duplicated genes: 12375
+  Final unique genes after combining: 21123
+
+2025-07-08 21:11:02,247 - INFO - Finished processing file: GSE124053_CDCA_24h.tsv
+2025-07-08 21:11:02,249 - INFO - Start processing file: GSE124053_CDCA_4h.tsv in dataset: GSE124053
+2025-07-08 21:11:57,045 - INFO - GSE124053/GSE124053_CDCA_4h.tsv:
+  Original genes: 26890
+  Expanded rows: 33498
+  Unique genes before deduplication: 21123
+  Duplicated genes: 12375
+  Final unique genes after combining: 21123
+
+2025-07-08 21:11:57,045 - INFO - Finished processing file: GSE124053_CDCA_4h.tsv
+2025-07-08 21:11:57,047 - INFO - Start processing file: GSE124053_GW3965_24h.tsv in dataset: GSE124053
+2025-07-08 21:12:52,168 - INFO - GSE124053/GSE124053_GW3965_24h.tsv:
+  Original genes: 26890
+  Expanded rows: 33498
+  Unique genes before deduplication: 21123
+  Duplicated genes: 12375
+  Final unique genes after combining: 21123
+
+2025-07-08 21:12:52,168 - INFO - Finished processing file: GSE124053_GW3965_24h.tsv
+2025-07-08 21:12:52,171 - INFO - Start processing file: GSE124053_GW3965_4h.tsv in dataset: GSE124053
+2025-07-08 21:13:57,715 - INFO - GSE124053/GSE124053_GW3965_4h.tsv:
+  Original genes: 26890
+  Expanded rows: 33498
+  Unique genes before deduplication: 21123
+  Duplicated genes: 12375
+  Final unique genes after combining: 21123
+
+2025-07-08 21:13:57,715 - INFO - Finished processing file: GSE124053_GW3965_4h.tsv
+2025-07-08 21:13:57,717 - INFO - Start processing file: GSE124053_GW4064_24h.tsv in dataset: GSE124053
+2025-07-08 21:15:00,072 - INFO - GSE124053/GSE124053_GW4064_24h.tsv:
+  Original genes: 26890
+  Expanded rows: 33498
+  Unique genes before deduplication: 21123
+  Duplicated genes: 12375
+  Final unique genes after combining: 21123
+
+2025-07-08 21:15:00,072 - INFO - Finished processing file: GSE124053_GW4064_24h.tsv
+2025-07-08 21:15:00,074 - INFO - Start processing file: GSE124053_GW4064_4h.tsv in dataset: GSE124053
+2025-07-08 21:15:58,177 - INFO - GSE124053/GSE124053_GW4064_4h.tsv:
+  Original genes: 26890
+  Expanded rows: 33498
+  Unique genes before deduplication: 21123
+  Duplicated genes: 12375
+  Final unique genes after combining: 21123
+
+2025-07-08 21:15:58,177 - INFO - Finished processing file: GSE124053_GW4064_4h.tsv
+2025-07-08 21:15:58,179 - INFO - Start processing file: GSE124053_GW7647_24h.tsv in dataset: GSE124053
+2025-07-08 21:16:55,591 - INFO - GSE124053/GSE124053_GW7647_24h.tsv:
+  Original genes: 26890
+  Expanded rows: 33498
+  Unique genes before deduplication: 21123
+  Duplicated genes: 12375
+  Final unique genes after combining: 21123
+
+2025-07-08 21:16:55,591 - INFO - Finished processing file: GSE124053_GW7647_24h.tsv
+2025-07-08 21:16:55,593 - INFO - Start processing file: GSE124053_GW7647_4h.tsv in dataset: GSE124053
+2025-07-08 21:18:03,584 - INFO - GSE124053/GSE124053_GW7647_4h.tsv:
+  Original genes: 26890
+  Expanded rows: 33498
+  Unique genes before deduplication: 21123
+  Duplicated genes: 12375
+  Final unique genes after combining: 21123
+
+2025-07-08 21:18:03,584 - INFO - Finished processing file: GSE124053_GW7647_4h.tsv
